@@ -1,0 +1,12 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "tsconfig": "workspace:*"
+  }
+}

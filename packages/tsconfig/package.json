@@ -1,0 +1,11 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "./*.json"
+  ],
+  "devDependencies": {
+    "@vue/tsconfig": "^0.1.3"
+  }
+}

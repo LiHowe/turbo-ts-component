@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vitepress dev pages",
+    "build": "vitepress build pages",
+    "serve": "vitepress serve pages"
+  },
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.27",
+    "vue": "^3.2.38"
+  }
+}
